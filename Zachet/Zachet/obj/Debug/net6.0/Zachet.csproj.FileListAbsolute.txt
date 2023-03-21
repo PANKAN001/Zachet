@@ -1,0 +1,15 @@
+C:\Users\Panikan\source\repos\Zachet\Zachet\bin\Debug\net6.0\Zachet.exe
+C:\Users\Panikan\source\repos\Zachet\Zachet\bin\Debug\net6.0\Zachet.deps.json
+C:\Users\Panikan\source\repos\Zachet\Zachet\bin\Debug\net6.0\Zachet.runtimeconfig.json
+C:\Users\Panikan\source\repos\Zachet\Zachet\bin\Debug\net6.0\Zachet.dll
+C:\Users\Panikan\source\repos\Zachet\Zachet\bin\Debug\net6.0\Zachet.pdb
+C:\Users\Panikan\source\repos\Zachet\Zachet\obj\Debug\net6.0\Zachet.csproj.AssemblyReference.cache
+C:\Users\Panikan\source\repos\Zachet\Zachet\obj\Debug\net6.0\Zachet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Panikan\source\repos\Zachet\Zachet\obj\Debug\net6.0\Zachet.AssemblyInfoInputs.cache
+C:\Users\Panikan\source\repos\Zachet\Zachet\obj\Debug\net6.0\Zachet.AssemblyInfo.cs
+C:\Users\Panikan\source\repos\Zachet\Zachet\obj\Debug\net6.0\Zachet.csproj.CoreCompileInputs.cache
+C:\Users\Panikan\source\repos\Zachet\Zachet\obj\Debug\net6.0\Zachet.dll
+C:\Users\Panikan\source\repos\Zachet\Zachet\obj\Debug\net6.0\refint\Zachet.dll
+C:\Users\Panikan\source\repos\Zachet\Zachet\obj\Debug\net6.0\Zachet.pdb
+C:\Users\Panikan\source\repos\Zachet\Zachet\obj\Debug\net6.0\Zachet.genruntimeconfig.cache
+C:\Users\Panikan\source\repos\Zachet\Zachet\obj\Debug\net6.0\ref\Zachet.dll
